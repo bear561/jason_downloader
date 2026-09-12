@@ -1,0 +1,11 @@
+# 构建产物
+jason-downloader
+jason-downloader.exe
+*.exe
+
+# 断点续传中间产物
+*.part*
+*.jdl.json
+
+# 下载产物
+/downloads/
